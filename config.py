@@ -17,4 +17,4 @@ ollama_model = OpenAIModel(model_name="qwen2.5:32b", provider=ollama_provider)
 ###############################################################################
 # Api ключи и другие конфигурации
 ###############################################################################
-TAVILY_API_KEY = "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"  # Замените на ваш реальный API ключ
+TAVILY_API_KEY = <API>  # Замените на ваш реальный API ключ
